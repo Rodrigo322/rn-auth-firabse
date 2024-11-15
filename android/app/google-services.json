@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637247901516",
+    "project_id": "rn-auth-72c48",
+    "storage_bucket": "rn-auth-72c48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637247901516:android:4061c503db7466726b49e9",
+        "android_client_info": {
+          "package_name": "com.rodrigo322.rnauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepne0s6C0PkCz6vQ_lUkghKSjenCRxxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
